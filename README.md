@@ -1,4 +1,4 @@
-# Projekt hier sieht man den Fahrplan von Zügen, die in jeder Stunde, einmal fahren 
+# Fahrplan 
 i = 6.12
 while i < 21:
     print(str("Der Zug fährt um ") + str(i) + str(" Uhr"))
